@@ -1,0 +1,34 @@
+{
+    "buildTime": 202002191636,
+    "deviceSource": "kestrelw",
+    "language": "en,es,ru,fr,de,it,tr,pt-br,th,el,cs,pt,ro,ms,id,in,vi",
+    "languageFamily": 2,
+    "packageName": "kestrelw(202002191636)",
+    "packageVersion": "0.0.0.11",
+    "packages": {
+        "baseRes": {
+            "flag": 7,
+            "name": "base.res.pack.bin",
+            "version": "v23"
+        },
+        "ft": {
+            "flag": 2,
+            "name": "font.bin",
+            "version": "12"
+        },
+        "fw": {
+            "flag": 2,
+            "name": "kestrelw.fw",
+            "version": "0.0.0.11"
+        },
+        "gps": {
+            "name": "gps.bin",
+            "version": "19226,f3a8ad3,135"
+        },
+        "res": {
+            "flag": 2,
+            "name": "res.pack.bin",
+            "version": "v51"
+        }
+    }
+}
